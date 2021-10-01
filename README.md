@@ -5,5 +5,5 @@ Transparentar la atención de los requerimientos realizados a las líneas y las 
 - Requerimientos_Lineas
 
 ## Observaciones
-- Linea 32, 55, 56, 57, 58, 59, 60, 64, 66, 68, 70, 72, 74, 77, 79, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 272, 394, 398, 519 y 522  del código en RMarkdown fue eliminada, dado que posee información sensible.
+- Linea 32, 55, 56, 57, 58, 59, 60, 64, 66, 68, 70, 72, 74, 77, 79, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 272, 394, 398, 519 y 522  del código en R fue eliminada, dado que posee información sensible.
 

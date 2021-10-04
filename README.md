@@ -1,4 +1,4 @@
-# SEFA-SEFA-Requerimientos-lineas
+# SEFA_SEFA_Requerimientos_lineas
 Transparentar la atención de los requerimientos realizados a las líneas y las OD con la implementación de herramientas para el control y seguimiento de los pedidos con la finalidad de mejorar la gestión de estos
 
 ## Archivos

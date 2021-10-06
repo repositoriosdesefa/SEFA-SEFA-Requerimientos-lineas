@@ -3,7 +3,7 @@ Transparentar la atención de los requerimientos realizados a las líneas y las 
 
 ## Archivos
 - Requerimientos_Lineas: Código en R para la generación de la base de integrada para tablero de control y la generación de correos recordatorios de los requerimeintos pendientes
-- Carpeta PIN SEFA: Con imagenes de los productos finales
+- Carpeta Imagenes: Con imagenes de los encabezados y productos finales
 
 ## Observaciones
 Las lineas 34, 45, 46, 47, 48, 49, 50, 67, 194, 196, 198, 256, 378, 382, 518, 521, 587 y 591 del código en R fueron eliminadas, dado que posee información sensible.

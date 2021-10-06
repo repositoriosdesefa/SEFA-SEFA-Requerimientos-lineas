@@ -5,5 +5,5 @@ Transparentar la atención de los requerimientos realizados a las líneas y las 
 - Requerimientos_Lineas
 
 ## Observaciones
-Las lineas 33, 44, 45, 46, 47, 48, 49, 66, 193, 195, 197, 255, 377, 381, 517, 520, 586 y 590 del código en R fueron eliminadas, dado que posee información sensible.
+Las lineas 34, 45, 46, 47, 48, 49, 50, 67, 194, 196, 198, 256, 378, 382, 518, 521, 587 y 591 del código en R fueron eliminadas, dado que posee información sensible.
 

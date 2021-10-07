@@ -1,5 +1,5 @@
-# SEFA_SEFA_Requerimientos_lineas
-Transparentar la atención de los requerimientos realizados a las líneas y las OD con la implementación de herramientas para el control y seguimiento de los pedidos con la finalidad de mejorar la gestión de estos.
+# SEFA_SEFA_Requerimientos_líneas
+Transparentar la atención de los requerimientos realizados por los órganos de líneas y las Oficinas Desconcentradas del OEFA, con la implementación de herramientas para el control y seguimiento de los pedidos con la finalidad de mejorar la gestión de estos.
 
 ## Archivos
 - Requerimientos_Lineas: Código en R para la generación de la base de integrada para tablero de control y la generación de correos recordatorios de los requerimeintos pendientes.

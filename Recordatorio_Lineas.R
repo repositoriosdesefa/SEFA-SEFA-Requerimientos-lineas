@@ -4,7 +4,7 @@
 
 ################ I. Librerías, drivers y directorio ################
 
-# I.1 Librerías y drivers
+# I.1 Librerías y drivers ----
 
 # i) Librerias 
 #install.packages("dplyr")
@@ -41,7 +41,7 @@ gs4_auth(token = drive_auth(email = correo_usuario),
 
 ################## II. Descarga de informacion ##################
 
-# II.1 ConexiOn a base de datos
+# II.1 ConexiOn a base de datos ----
 REQ_OSPA <- ""
 REQ_SEFA <- ""
 REQ_COFEMA1 <- ""
@@ -63,7 +63,7 @@ INSUMOS_COFEMA2 <- read_sheet(ss=REQ_COFEMA2,sheet = "REQ LINEAS")
 # SINADA
 DERIVACIONES <- as.data.frame(read_sheet(REQ_SINADA, sheet = "Derivaciones"))
 
-# II.2 Conexion a base de contactos
+# II.2 Conexion a base de contactos ----
 CONTACTOS <- ""
 # Descarga de la tabla
 CONTACTOS_OEFA <- read_sheet(CONTACTOS, sheet = "OEFA", skip = 1)
